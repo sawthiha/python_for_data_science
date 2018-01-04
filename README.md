@@ -1,37 +1,40 @@
-# Python in a Notebook #
+# Introduction to Python Programming#
 
 This repository contains a curated collection of Jupyter/IPython Notebooks of 
 introductory materials about programming in Python.
 
+Edited from: [Valerio Maggio](https://github.com/leriomaggio/python-in-a-notebook)
+
 ## Goals ##
 
-Available notebooks are intended to aid both students and teachers in learning and teaching 
-Python programming, respectively. 
+Notebooks are intended to guide students in learning the basic functionality of programming Python using Jupyter Notebooks. 
 
-In more details, the goals of this project are:
-
-- Introduce students as quickly as possible to the basics of Python programming;
+The main goals of this project are to :
+- Introduce students to the basics of Python programming;
 - Introduce best practice as early as possible, while remaining accessible to students with no background in programming at all;
 - Provide teachers an easy-to-use material about programming in Python to be used in their lectures
 
 ## Running Notebooks ##
 
-All you need to do to play notebooks is to open a Terminal, and type the following command:
+To run a notebooks open a _Terminal_, and type the following command:
 
     jupyter notebook
-    
 
-**That's it!** :)
+The notebook will launch from the present working directory in a browser.
 
 ## Programming Environment
 
-These notebooks are written primarily in **Python 3**. 
+These notebooks are written in **Python 3**. 
 
 If the default Python on your system is Python 3, then you will have a simpler time contributing to the project. 
 If you only have Python 2, you might want to consider adding Python 3 to your system. 
 
 In this regards, you may find useful to take a look at the *Programming Environment* [notebook]() where you 
 could find links and details on how to set up your environment depending on your platform.
+
+N.B. if you are not sure which version of Python you are running then open a  _Terminal_, and type the following command:
+
+    python -V
 
 ### Requirements ###
 
