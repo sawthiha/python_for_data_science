@@ -5,7 +5,7 @@ This repository contains a collection of Jupyter/IPython Notebooks introducing p
 ### 1. Install Python
 If you have not yet installed Python the [**Anaconda**](https://store.continuum.io/cshop/anaconda/) distribution by [**Continuum Analytics**](http://www.continuum.io/) is highly recommended. Anaconda is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. Anaconda includes an easy-to-use installer for almost every platform, drastically reducing the burden of setting up the environment. In addition it comes packaged with the most useful Python libraries.
 
-### 2. Run Jupyter Notebook
+### 2. Running Jupyter Notebooks
 To run a notebook open a _Terminal_, in the directory of this course, and type the following command:
 
     jupyter notebook
