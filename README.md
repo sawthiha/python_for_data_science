@@ -1,6 +1,5 @@
 # Introduction to Python Programming
 This repository contains a collection of Jupyter/IPython Notebooks introducing programming concepts in Python. The notebooks are intended to guide students in learning the basic functionality of programming in Python, and some of the most frequently used modules. 
-
 ## Getting started
 ### 1. Install Python
 If you have not yet installed Python the **Anaconda** distribution by [**Continuum Analytics**](http://www.continuum.io/) is highly recommended. Anaconda is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. Anaconda includes an easy-to-use installer for almost every platform, drastically reducing the burden of setting up the environment. In addition it comes packaged with the most useful Python libraries.
@@ -27,6 +26,8 @@ The notebook will launch in a browser from the present working directory.
 
 ### 4. Start learning
 You are now setup to start working your way through the numbered notebooks in the Jupyter Notebook browser. Start with an introduction to Jupyter by selecting `00_introduction_to_jupyter_notebooks.ipynb` and work through in order.
+
+If you are still curious after working through all the notebooks have a look at the extra notebooks for useful extra information.
 
 ## Basic Requirements
 If you have installed the Anaconda 3.x distribution as described above you will have met the basic requirements necessary to begin working, otherwise having the following installed is a basic requirement for doing this course:
