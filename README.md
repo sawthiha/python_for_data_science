@@ -12,11 +12,9 @@ If you are familiar with git version control and have git installed then you can
 
     git clone https://github.com/williamgrimes/python_in_a_notebook.git
 
-Otherwise navigate to the following webpage:
+Otherwise navigate to the following webpage: (https://github.com/williamgrimes/python_in_a_notebook.git)
 
-	(https://github.com/williamgrimes/python_in_a_notebook.git)
-
-And select `Clone or download`, the download the zip file and extract.
+And select `Clone or download`, then download the zip file and extract.
 
 ### 3. Running Jupyter Notebooks
 Navigate to the directory of the unzipped or cloned course files, and open a _Terminal_, and type the following command:
