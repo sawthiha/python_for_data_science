@@ -1,5 +1,35 @@
 # Introduction to Python Programming
 This repository contains a collection of Jupyter/IPython Notebooks introducing programming concepts in Python. The notebooks are intended to guide students in learning the basic functionality of programming in Python, and some of the most frequently used modules. 
+
+##Table of contents
+
+Lecture:
+* [Course Lecture](python_course.pdf)
+
+Core Notebooks:
+0. [Introduction to Jupyter Notebooks](00_introduction_to_jupyter_notebooks.ipynb)
+1. [Hello World - first program](01_hello_world.ipynb)
+2. [Datatypes, strings, numbers and variables](02_datatypes_strings_numbers_and_variables.ipynb)
+3. [Lists, tuples, and sets](03_lists_tuples_and_sets.ipynb)
+4. [If statements, and conditional logic](04_if_statements.ipynb)
+5. [Loops, and user input](05_while_loops_and_user_input.ipynb)
+6. [Dictionaries](06_dictionaries.ipynb)
+7. [Functions introduction](07_introduction_to_functions.ipynb)
+8. [More Functions](08_some_more_functions.ipynb)
+9. [Classes and Object Oriented Programming](09_classes_and_OOP.ipynb)
+10. [Handling Exceptions](10_exceptions.ipynb)
+11. [Interfacing with external files](11_external_files.ipynb)
+12. [Numpy library](12_numpy_library.ipynb)
+13. [Matplotlib Library](13_matplotlib_library.ipynb)
+
+Bonus notebooks:
+* [Bonus - Coding Style PEP8](bonus_coding_style_PEP8.ipynb)
+* [Bonus - Databases and data persistence](bonus_databases_and_persistence.ipynb)
+* [Bonus - Importing modules](bonus_importing_modules.ipynb)
+* [Bonus - The Zen Of Python](bonus_the_zen_of_python.ipynb)
+
+
+
 ## Getting started
 ### 1. Install Python
 If you have not yet installed Python the **Anaconda** distribution by [**Continuum Analytics**](http://www.continuum.io/) is highly recommended. Anaconda is a completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing. Anaconda includes an easy-to-use installer for almost every platform, drastically reducing the burden of setting up the environment. In addition it comes packaged with the most useful Python libraries.
