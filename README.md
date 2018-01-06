@@ -41,11 +41,11 @@ Anaconda python can be downloaded from this webpage: [**Anaconda Python**](https
 ### 2. Download the tutorial notebooks
 If you are familiar with git version control and have git installed then you can download the relevant course notebooks by doing a git clone:
 
-    git clone https://github.com/williamgrimes/python_in_a_notebook.git
+    git clone https://github.com/williamgrimes/teach_python_in_notebooks.git
 
-Otherwise navigate to the following webpage: 
+Otherwise navigate to the following webpage (where you are reading this readme): 
 
-https://github.com/williamgrimes/python_in_a_notebook.git
+https://github.com/williamgrimes/teach_python_in_notebooks.git
 
 And select `Clone or download`, then download the zip file and extract.
 
