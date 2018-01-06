@@ -1,5 +1,5 @@
 # Introduction to Python Programming
-This repository contains a collection of Jupyter/IPython Notebooks introducing programming concepts in Python. The notebooks are intended to guide students in learning the basic functionality of programming in Python, and some of the most frequently used modules. 
+This repository contains a collection of Jupyter/IPython Notebooks introducing programming concepts in Python. The notebooks are intended to guide students in learning the basic functionality of programming in Python, and some of the most frequently used libraries.
 
 First, make sure you have setup the programming environment correctly by reading the 'Getting Started' guide, after that you are ready to start coding, and working with the notebooks. Review the lecture notes and begin by working through the core notebooks (0-13), and then have a look at the bonus material.  
 
