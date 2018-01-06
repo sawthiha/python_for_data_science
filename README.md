@@ -1,12 +1,12 @@
 # Introduction to Python Programming
 This repository contains a collection of Jupyter/IPython Notebooks introducing programming concepts in Python. The notebooks are intended to guide students in learning the basic functionality of programming in Python, and some of the most frequently used modules. 
 
-##Table of contents
+## Table of contents
 
-Lecture:
+### Lecture:
 * [Course Lecture](python_course.pdf)
 
-Core Notebooks:
+### Core Notebooks:
 0. [Introduction to Jupyter Notebooks](00_introduction_to_jupyter_notebooks.ipynb)
 1. [Hello World - first program](01_hello_world.ipynb)
 2. [Datatypes, strings, numbers and variables](02_datatypes_strings_numbers_and_variables.ipynb)
@@ -22,7 +22,7 @@ Core Notebooks:
 12. [Numpy library](12_numpy_library.ipynb)
 13. [Matplotlib Library](13_matplotlib_library.ipynb)
 
-Bonus notebooks:
+### Bonus notebooks:
 * [Bonus - Coding Style PEP8](bonus_coding_style_PEP8.ipynb)
 * [Bonus - Databases and data persistence](bonus_databases_and_persistence.ipynb)
 * [Bonus - Importing modules](bonus_importing_modules.ipynb)
