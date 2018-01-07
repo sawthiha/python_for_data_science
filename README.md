@@ -4,7 +4,7 @@ This repository contains a collection of Jupyter/IPython Notebooks introducing f
 Follow
 First, make sure you have setup the programming environment correctly by reading the
 
-[getting started](#markdown-header-getting-started)
+[getting started](#getting-started)
 
  'Getting Started' guide, after that you are ready to start coding, and working with the notebooks. Review the lecture notes and begin by working through the core notebooks (0-13), and then have a look at the bonus material.  
 
