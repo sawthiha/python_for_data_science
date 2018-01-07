@@ -1,12 +1,7 @@
 # Introduction to Python Programming
-This repository contains a collection of Jupyter/IPython Notebooks introducing fundamental programming concepts and their syntax in Python. The notebooks are intended to guide students in learning the basic functionality of programming in Python, and some of the most frequently used libraries.
+This repository contains a collection of Jupyter/IPython Notebooks introducing fundamental programming concepts in Python. These concepts are common to many programming languages, and can be applied in other languages with different syntax. The notebooks are intended to guide students in learning the basic functionality of programming in Python, as well as introduce some of the most useful Python libraries.
 
-Follow
-First, make sure you have setup the programming environment correctly by reading the
-
-[getting started](#getting-started)
-
- 'Getting Started' guide, after that you are ready to start coding, and working with the notebooks. Review the lecture notes and begin by working through the core notebooks (0-13), and then have a look at the bonus material.  
+To begin make sure you have setup your programming environment correctly, in order to do this read the [getting started guide](#getting-started). After that you are ready to start working with through the [course material](#course-material), starting by reviewing the lecture material and then working through the core notebooks zero to thirteen. Finally some bonus material is provided about code style, databases, modules, and python philosophy.  
 
 ## Course Material
 
@@ -66,17 +61,22 @@ You are now setup to start working your way through the numbered notebooks in th
 
 If you are still curious after working through all the notebooks have a look at the extra notebooks for useful extra information.
 
-## Basic Requirements
-If you have installed the Anaconda 3.x distribution as described above you will have met the basic requirements necessary to begin working, otherwise having the following installed is a basic requirement for doing this course:
+## Minimum requirements
+If you have installed the Anaconda 3.x distribution as described above you will have fulfilled the basic requirements necessary to begin working. Otherwise, please ensure you have the following installed before starting the course:
 
 * Python 3.x (2.x would work as well)
 * IPython 4.x (with **notebook support**) or Jupyter: 
-    * `pip install ipython[notebook]` (OR)
-    * `pip install jupyter`
+* matplotlib library
+* NumPy library
 
-N.B. these coursenotebooks are written in **Python 3**, if you are running Python 2, you might want to consider adding Python 3 to your system. If you are not sure which version of Python you are running then open a  _Terminal_, and type the following command:
+To check if these are installed you can run the following:
 
-    python -V
+* `python -V`
+* `ipython -V`
+* `pip show matplotlib`
+* `pip show numpy`
+
+N.B. these coursenotebooks are written in **Python 3**, if you are running Python 2, you might want to consider adding Python 3 to your system.
 
 ### Acknowledgements
 This repository was edited from `python-in-a-notebook` by [Valerio Maggio](https://github.com/leriomaggio/python-in-a-notebook).
