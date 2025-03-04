@@ -1,4 +1,8 @@
 @echo off
+echo Removing all local changes...
+git reset --hard HEAD
+git clean -fd
+
 echo Pulling latest changes from the repository...
 git pull
 
