@@ -5,9 +5,6 @@ To begin make sure you have setup your programming environment correctly, in ord
 
 ## Course Material
 
-### Lecture:
-* [Course Lecture](python_course.pdf)
-
 ### Notebooks:
 0. [Introduction to Jupyter Notebooks](00_introduction_to_jupyter_notebooks.ipynb)
 1. [Hello World - first program](01_hello_world.ipynb)
